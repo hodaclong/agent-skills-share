@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chưng cất kiến thức"
+  short_description: "Tạo knowledge pack nhẹ cho AI từ URL hoặc file"
+  default_prompt: "Dữ liệu nguồn nào anh muốn chưng cất? Gửi URL, đường dẫn file/thư mục, hoặc đính kèm file."
